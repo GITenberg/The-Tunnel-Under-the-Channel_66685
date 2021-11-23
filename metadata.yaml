@@ -1,11 +1,16 @@
 _repo: The-Tunnel-Under-the-Channel_66685
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66685-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Whiteside, Thomas
     gutenberg_agent_id: '53913'
     url: http://www.gutenberg.org/2009/agents/53913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66685#The-Tunnel-Under-the-Channel
 gutenberg_issued: '2021-11-07'
 identifiers:
   gutenberg: '66685'
